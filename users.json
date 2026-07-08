@@ -1,0 +1,14 @@
+{
+  "users": {
+    "juckphai": {
+      "password": "admin123",
+      "role": "admin",
+      "updatedAt": "2026-06-24T00:00:00.000Z"
+    },
+    "user01": {
+      "password": "password",
+      "role": "user",
+      "updatedAt": "2026-06-24T00:00:00.000Z"
+    }
+  }
+}
